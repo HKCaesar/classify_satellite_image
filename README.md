@@ -4,12 +4,12 @@
 
 In order to use the following code, you need to install:
 
-1 - GDAL
+1. GDAL
 
 GDAL is a translator library for raster and vector geospatial data formats.
 Please follow this link to install it [https://trac.osgeo.org/gdal/wiki/GdalOgrInPython]
 
-2 - Scikit-Learn
+2. Scikit-Learn
 
 Sciki-learn is a Python library for machine learning that you can install with Python Index Package:
 

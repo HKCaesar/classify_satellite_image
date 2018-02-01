@@ -7,7 +7,7 @@ In order to use the following code, you need to install:
 ### 1. GDAL
 
 GDAL is a translator library for raster and vector geospatial data formats.
-Please follow this link to install it [https://trac.osgeo.org/gdal/wiki/GdalOgrInPython]
+Please follow this link to install it [Install GDAL](https://trac.osgeo.org/gdal/wiki/GdalOgrInPython)
 
 ### 2. Scikit-Learn
 

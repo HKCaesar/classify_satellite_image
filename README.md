@@ -37,8 +37,26 @@ TO DO
 
 ## Code
 
-TO DO
+### Utils functions:
 
+We use 3 differents functions.
+
+1. create_mask_from_vector:
+
+This function rasterize the given vector (wrapper for gdal.RasterizeLayer). 
+
+2. vectors_to_raster:
+
+This function rasterize all the vectors in the given directory into a single image.
+
+3. write_geotiff:
+
+We can save an satellite image with imsave but we'll loose all spatial informations, that's why we use this function which will create a GeoTIFF file with the given data.
+
+
+### Main function:
+
+TO DO
 ## Authors
 
 * Yassine Belmamoun (CentraleSupélec)
